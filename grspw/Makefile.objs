@@ -1,0 +1,7 @@
+obj-$(CONFIG_GRLIB) += grlib_apbgrspw.o
+obj-$(CONFIG_GRLIB) += grlib_comgrspw.o
+obj-$(CONFIG_GRLIB) += grlib_coregrspw.o
+obj-$(CONFIG_GRLIB) += grlib_loggrspw.o
+obj-$(CONFIG_GRLIB) += grlib_mqgrspw.o
+obj-$(CONFIG_GRLIB) += grlib_reggrspw.o
+obj-$(CONFIG_GRLIB) += grlib_utilgrspw.o
